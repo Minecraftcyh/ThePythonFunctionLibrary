@@ -1,2 +1,4 @@
 # ThePythonFunctionLibrary
 ThePythonFunctionLibrary
+
+这是一个Python功能库，可以留言想要的功能，两周内应该可以搞定，源码都在这里
